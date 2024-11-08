@@ -3,6 +3,11 @@
 I have 2 years of experience in Java development and primarily work with Spring Boot.    
 Lately, I've been diving into building CI/CD pipelines.
 
+### What I Love
+🗽 Studying English    
+🏕️ Exploring the world (whether in real life or in games)  
+
+
 ### Technologies    
 **Languages & Framwork**
 
