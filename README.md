@@ -1,6 +1,6 @@
 ## Hello World👋
 🥟 I'm Jinah, a **junior back-end developer** based in Korea.    
-I have 2 years of experience in Java development and primarily work with Spring Boot.    
+I have over 2 years of experience in Java development and primarily work with Spring Boot.    
 Lately, I've been diving into building CI/CD pipelines.
 
 ### What I Love
